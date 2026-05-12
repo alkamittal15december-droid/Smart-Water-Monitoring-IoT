@@ -8,24 +8,24 @@ This project introduces a smart water monitoring system using Raspberry Pi to ta
 
 By using flow sensors and the continuity equation (Q=AV), the system can differentiate between a natural change in flow and a hidden leakage, making it a sustainable and cost-effective choice for modern water management.
 ### 🌍 Introduction & Global Motivation
-![Vision](image_2.png)
+![Vision](problem.jpeg)
 *The project addresses the critical global water scarcity crisis using advanced engineering and smart sensor infrastructure.*
 
 ### 🏗️ System Architecture & Logic Flow
 <p align="center">
-  <img src="image_1.png" alt="Architecture Diagram" width="45%" />
-  <img src="image_4.png" alt="Process Flowchart" width="45%" />
+  <img src="circuit.jpeg" alt="Architecture Diagram" width="45%" />
+  <img src="flowchart.jpeg" alt="Process Flowchart" width="45%" />
 </p>
 *Left: Block diagram of the end-to-end integration (Sensors -> Microcontroller -> ThingSpeak Cloud -> User).*
 *Right: The core algorithmic roadmap used for decision-making and flow calculation.*
 
 ### ⚙️ Electrical System Design
-![Circuit Schema](image_3.png)
+![Circuit Schema](circuit.jpeg)
 *Detailed schematic of the sensor interfacing circuit.*
 ### 📸 Project Visuals
 
 #### 1. Hardware Prototype Setup
-![Project Setup](image.png)
+![Project Setup](prototype.jpeg)
 *ESP 32 connected with Turbidity and Flow sensors for real-time monitoring.*
 
 #### 2. Cloud Analytics Dashboard (ThinkSpeak)
