@@ -19,6 +19,9 @@ By using flow sensors and the continuity equation ($Q=AV$), the system can diffe
 - **Language:** MicroPython
 - **Key Concepts:** Fluid Pathology, IoT Cloud Sync, $Q=AV$ Continuity Equation.
 
+### 💻 Source Code
+The complete implementation logic for sensor data acquisition and cloud syncing can be found here: [main.py](./main.py)
+
 - ### 🚀 How to Use
 1. Clone this repository.
 2. Update the `WIFI_SSID` and `THINGSPEAK_API_KEY` in `main.py`.
