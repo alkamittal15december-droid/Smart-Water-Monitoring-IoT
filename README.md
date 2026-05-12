@@ -3,6 +3,10 @@ Raspberry Pi based real-time water quality monitoring. Detected viscosity change
 ## Project Abstract
 This project introduces a smart water monitoring system using Raspberry Pi to tackle water conservation. Beyond just clear water, we analyze "Grey Water" containing detergents. 
 
+![Project Status](https://img.shields.io/badge/Status-Working%20Prototype-green)
+![Tech Stack](https://img.shields.io/badge/Tech-IoT%20%7C%20Raspberry%20Pi-blue)
+![College](https://img.shields.io/badge/College-IGDTUW-red)
+
 By using flow sensors and the continuity equation (Q=AV), the system can differentiate between a natural change in flow and a hidden leakage, making it a sustainable and cost-effective choice for modern water management.
 ### 📸 Project Visuals
 
