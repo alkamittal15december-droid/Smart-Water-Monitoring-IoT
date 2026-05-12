@@ -25,7 +25,7 @@ By using flow sensors and the continuity equation (Q=AV), the system can differe
 ### 📸 Project Visuals
 
 #### 1. Hardware Prototype Setup
-![Project Setup](prototype.png)
+![Project Setup](Prototype.jpeg)
 *ESP 32 connected with Turbidity and Flow sensors for real-time monitoring.*
 
 #### 2. Cloud Analytics Dashboard (ThinkSpeak)
