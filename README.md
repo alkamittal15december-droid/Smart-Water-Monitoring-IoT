@@ -3,7 +3,7 @@ Raspberry Pi based real-time water quality monitoring. Detected viscosity change
 ## Project Abstract
 This project introduces a smart water monitoring system using Raspberry Pi to tackle water conservation. Beyond just clear water, we analyze "Grey Water" containing detergents. 
 
-By using flow sensors and the continuity equation ($Q=AV), the system can differentiate between a natural change in flow and a hidden leakage, making it a sustainable and cost-effective choice for modern water management.
+By using flow sensors and the continuity equation (Q=AV), the system can differentiate between a natural change in flow and a hidden leakage, making it a sustainable and cost-effective choice for modern water management.
 ### 📸 Project Visuals
 
 #### 1. Hardware Prototype Setup
