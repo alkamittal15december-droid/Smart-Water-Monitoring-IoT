@@ -11,7 +11,7 @@ By using flow sensors and the continuity equation ($Q=AV$), the system can diffe
 *Raspberry Pi connected with Turbidity and Flow sensors for real-time monitoring.*
 
 #### 2. Cloud Analytics Dashboard (ThinkSpeak)
-![Cloud Dashboard](Dashboard.jpg)
+![Cloud Dashboard](Dashboard.jpeg)
 *Real-time data visualization showing flow rates and turbidity levels.*
 
 ### 🛠️ Technical Details
