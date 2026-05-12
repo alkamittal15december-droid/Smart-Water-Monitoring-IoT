@@ -17,7 +17,7 @@ By using flow sensors and the continuity equation (Q=AV), the system can differe
 ### 🛠️ Technical Details
 - **Microcontroller:** Raspberry Pi / ESP32
 - **Language:** MicroPython
-- **Key Concepts:** Fluid Pathology, IoT Cloud Sync, $Q = A \times V$$ Continuity Equation.
+- **Key Concepts:** Fluid Pathology, IoT Cloud Sync, $Q = A \times V$ Continuity Equation.
 
 ### 💻 Source Code
 The complete implementation logic for sensor data acquisition and cloud syncing can be found here: [main.py](./main.py)
